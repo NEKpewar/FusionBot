@@ -475,6 +475,64 @@ You can now read the DMs a user sends to the bot. This is fun for when people th
 
 ---
 
+### 🤖 Terms of Service
+
+By using FusionBot, you agree to the following terms:
+
+FusionBot is provided "as is" without any warranty of any kind.
+The bot is intended solely for Discord server automation and Pokémon-related features where permitted by the server owner.
+Server administrators are responsible for configuring and using the bot in compliance with Discord's Terms of Service and Community Guidelines.
+Users may not use FusionBot for illegal, abusive, malicious, or disruptive activities.
+The developer reserves the right to update, modify, suspend, or discontinue any feature of the bot at any time without prior notice.
+The developer is not responsible for data loss, service interruptions, or damages resulting from the use or misuse of the bot.
+Continued use of FusionBot constitutes acceptance of these Terms of Service.
+
+---
+
+### 🤖 Privacy Policy
+
+FusionBot respects your privacy.
+
+The bot may process limited information required to operate correctly, including:
+
+Discord User IDs
+Discord Server IDs
+Discord Channel IDs
+Discord Role IDs
+Queue information
+Trade requests
+Daily usage counters (if enabled)
+Configuration data required for bot operation
+
+FusionBot does not collect:
+
+Discord passwords
+Discord tokens
+Email addresses
+Payment information
+Personal conversations outside of commands sent to the bot
+
+Collected information is used exclusively to:
+
+Process commands
+Manage trade queues
+Enforce server-configured limits
+Provide requested bot functionality
+
+FusionBot does not sell, rent, or share personal information with third parties.
+
+Server owners are responsible for their own configuration files, backups, and data management.
+
+By using FusionBot, you consent to the processing of the above information for the sole purpose of providing the bot's services.
+
+---
+
+Contact
+
+For questions regarding these Terms of Service or Privacy Policy, please contact the repository owner through GitHub Issues or the project's support server.
+
+---
 ## 🔗 Other Projects
 
 - [**PKHeX ALM Releases**](https://github.com/Secludedly/PKHeX-ALM-Releases/releases) — PKHeX + AutoLegalityMod pre-built with config files.
+
